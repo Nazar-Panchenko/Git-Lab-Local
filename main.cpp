@@ -3,7 +3,7 @@ int add(int a, int b) {
 	return a + b;
 }
 int main() {
-	std::cout << "Sum: " << add(10, 10) << std::endl;
+	std::cout << "Version from FEATURE branch" << std::endl;
 	return 0;
 }
 
