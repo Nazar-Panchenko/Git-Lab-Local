@@ -6,3 +6,7 @@ int main() {
 	std::cout << "Version from MAIN branch" << std::endl;
 	return 0;
 }
+
+int subtract(int a, int b) {
+	return a - b;
+}
